@@ -1,0 +1,18 @@
+Network Security Projects Overview (Windows & Linux)
+This File contains documentation and configurations for securing and monitoring Windows and Linux server environments using industry-standard tools and techniques. The focus is on enhancing system integrity, detecting malicious behavior, and enforcing firewall rules for secure access control.
+
+🔐 1. Vulnerabilities and Recommendation Report (Windows & Linux)
+Identified critical, high, and medium vulnerabilities on both Windows Server 2016 and Ubuntu Linux.
+
+Provided tailored mitigation recommendations such as enabling automatic updates, disabling unused services, and applying least privilege access controls.
+
+🛡️ 2. Firewall Configurations – Palo Alto (Linux Environment Focus)
+* Configured trusted, untrusted, and DMZ zones with interface segmentation.
+* Applied NAT and security policies to control inbound/outbound traffic.
+* Implemented threat prevention features: URL filtering, antivirus, DNS Sinkhole, and WildFire integration.
+* Verified blocking of malicious content (e.g., Eicar test) and enforced controlled access to services via FTP/SSH.
+
+⚙️ 3. Network Security Monitoring – Unauthorized Cryptocurrency Mining Detection (Linux Focus)
+* Simulated cryptojacking activity and monitored network traffic using tools like Wireshark and Splunk.
+* Developed alerts for abnormal CPU/network activity and unauthorized DNS queries.
+* Recommended steps to isolate and mitigate compromised systems.
