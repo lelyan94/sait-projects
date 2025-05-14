@@ -1,14 +1,1 @@
-Windows & Linux Server Configuration – IT Services Projects
-This projects showcases practical configuration of both Windows and Linux server environments to deliver secure, reliable IT services in a corporate setting.
-
-🖥️ Windows Server (Firewall & Security)
-  * Segmented network into Internal, External, and DMZ zones.
-  * Configured next-gen firewall policies, NAT, and URL filtering.
-  * Enabled DNS sinkhole, Antivirus, and WildFire threat prevention.
-  * Verified service access, blocked malicious and social media sites, and secured DMZ resources (FTP/SSH/HTTP).
-
-🐧 Linux Server (Domain Integration & Services)
-  * Joined Linux server to Active Directory domain using realm and Kerberos.
-  * Deployed and secured Apache (web), Samba (file sharing), and ProFTPD (FTP with SSL).
-  * Managed access controls via ACLs for shared directories.
-  * Configured two websites (public and restricted) with DNS and verified remote access from Windows clients.
+SAIT
